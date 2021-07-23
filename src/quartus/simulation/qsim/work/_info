@@ -1,0 +1,96 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/datnt/DATA/Traffic_Light_verilog/src/quartus/simulation/qsim
+vIntervalTimer
+Z1 !s110 1627045515
+!i10b 1
+!s100 VU6^;8bZWM@R;LhKLIKIf1
+IlfGNcCfdJO3Q75PFHYcGY0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1627045515
+Z3 8traffic_light.vo
+Z4 Ftraffic_light.vo
+Z5 L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1627045515.000000
+Z8 !s107 traffic_light.vo|
+Z9 !s90 -work|work|traffic_light.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@interval@timer
+vIntervalTimer_vlg_vec_tst
+R1
+!i10b 1
+!s100 eUN?0;0EAOg3BfW[2R47a3
+IZeGE_WE?j<m9me9jnP<Il0
+R2
+R0
+w1627045514
+Z12 8traffic_light_Waveform.vwf.vt
+Z13 Ftraffic_light_Waveform.vwf.vt
+Z14 L0 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 traffic_light_Waveform.vwf.vt|
+Z15 !s90 -work|work|traffic_light_Waveform.vwf.vt|
+!i113 1
+R10
+R11
+n@interval@timer_vlg_vec_tst
+vtraffic_light
+Z16 !s110 1627046252
+!i10b 1
+!s100 oBQTjS;5mX3ZOYN<4bIg01
+I[b@<g9L`U1KS3cdK12Z7D3
+R2
+R0
+Z17 w1627046251
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+Z18 !s108 1627046252.000000
+R8
+R9
+!i113 1
+R10
+R11
+vtraffic_light_vlg_vec_tst
+R16
+!i10b 1
+!s100 DPPZ[6;P;DfJ91JLaTWUC1
+I7_93h]Z_Wlf1oUoHE>2OO0
+R2
+R0
+R17
+R12
+R13
+R14
+R6
+r1
+!s85 0
+31
+R18
+!s107 traffic_light_Waveform.vwf.vt|
+R15
+!i113 1
+R10
+R11

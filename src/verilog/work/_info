@@ -1,0 +1,184 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/datnt
+vCounterWithParallelLoad
+Z0 !s110 1626791910
+!i10b 1
+!s100 efF9AImMTD0YZTFYbjNO?1
+IaGYjI`;ALCM62i;4YdD:43
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/home/datnt/DATA/Traffic_Light_verilog/src/verilog
+w1626791890
+8/home/datnt/DATA/Traffic_Light_verilog/src/CounterWithParallelLoad.v
+F/home/datnt/DATA/Traffic_Light_verilog/src/CounterWithParallelLoad.v
+L0 8
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1626791910.000000
+!s107 /home/datnt/DATA/Traffic_Light_verilog/src/CounterWithParallelLoad.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/datnt/DATA/Traffic_Light_verilog/src/CounterWithParallelLoad.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@counter@with@parallel@load
+vD_ff
+R0
+!i10b 1
+!s100 1Q@3DoL8_0a]0zg@CXc2o2
+I51=m2:1:Lb@?MThIM3UKm3
+R1
+R2
+w1626791878
+8/home/datnt/DATA/Traffic_Light_verilog/src/D_ff.v
+F/home/datnt/DATA/Traffic_Light_verilog/src/D_ff.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/datnt/DATA/Traffic_Light_verilog/src/D_ff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/datnt/DATA/Traffic_Light_verilog/src/D_ff.v|
+!i113 1
+R5
+R6
+n@d_ff
+vHAS
+R0
+!i10b 1
+!s100 z?]g7`bUR4WQOnXRN?N:o3
+Izi[3dQhSe_1L]Vcb^<=Xm0
+R1
+R2
+w1626791887
+8/home/datnt/DATA/Traffic_Light_verilog/src/HAS.v
+F/home/datnt/DATA/Traffic_Light_verilog/src/HAS.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/datnt/DATA/Traffic_Light_verilog/src/HAS.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/datnt/DATA/Traffic_Light_verilog/src/HAS.v|
+!i113 1
+R5
+R6
+n@h@a@s
+vIntervalTimer
+R0
+!i10b 1
+!s100 ;=i;RE23:3@438nEhCPI20
+I=kCCVMjcM`Pkc;l=3o7Zh3
+R1
+R2
+w1626791900
+8/home/datnt/DATA/Traffic_Light_verilog/src/IntervalTimer.v
+F/home/datnt/DATA/Traffic_Light_verilog/src/IntervalTimer.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/datnt/DATA/Traffic_Light_verilog/src/IntervalTimer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/datnt/DATA/Traffic_Light_verilog/src/IntervalTimer.v|
+!i113 1
+R5
+R6
+n@interval@timer
+vmux2_1
+R0
+!i10b 1
+!s100 7BP^:coPLMQe]=1:=^4g_1
+IzH?m[70CfI?n`U<SK^Ekn2
+R1
+R2
+w1626791882
+8/home/datnt/DATA/Traffic_Light_verilog/src/mux2_1.v
+F/home/datnt/DATA/Traffic_Light_verilog/src/mux2_1.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/datnt/DATA/Traffic_Light_verilog/src/mux2_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/datnt/DATA/Traffic_Light_verilog/src/mux2_1.v|
+!i113 1
+R5
+R6
+vTimeSrc
+R0
+!i10b 1
+!s100 Tg:zF5cgo]5ige?fPT6?D1
+IlPCCH_ZPSiO[lXlO`^1Bn0
+R1
+R2
+w1626791869
+8/home/datnt/DATA/Traffic_Light_verilog/src/TimeSrc.v
+F/home/datnt/DATA/Traffic_Light_verilog/src/TimeSrc.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/datnt/DATA/Traffic_Light_verilog/src/TimeSrc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/datnt/DATA/Traffic_Light_verilog/src/TimeSrc.v|
+!i113 1
+R5
+R6
+n@time@src
+vtraffic_light
+R0
+!i10b 1
+!s100 i2IHG<PKKdD0cR@FE3Ydd2
+Ie@o6z8aiEjVgBQFO2hSL60
+R1
+R2
+w1626791896
+8/home/datnt/DATA/Traffic_Light_verilog/src/traffic_light.v
+F/home/datnt/DATA/Traffic_Light_verilog/src/traffic_light.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/datnt/DATA/Traffic_Light_verilog/src/traffic_light.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/datnt/DATA/Traffic_Light_verilog/src/traffic_light.v|
+!i113 1
+R5
+R6
+vTrafficLightCounter
+R0
+!i10b 1
+!s100 _FP3cQ]Mz6_ogUI7h`EV82
+ICJcg563[2S>>L=Dg@GoYf3
+R1
+R2
+w1626791759
+8/home/datnt/DATA/Traffic_Light_verilog/src/TrafficLightCounter.v
+F/home/datnt/DATA/Traffic_Light_verilog/src/TrafficLightCounter.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/datnt/DATA/Traffic_Light_verilog/src/TrafficLightCounter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/datnt/DATA/Traffic_Light_verilog/src/TrafficLightCounter.v|
+!i113 1
+R5
+R6
+n@traffic@light@counter
